@@ -1,7 +1,6 @@
 <div align="center">
 
-# Rural Scan
-### Nature-based solutions. Rural landscapes. Informed investment.
+<img src="https://raw.githubusercontent.com/RuralScan/.github/main/profile/assets/nbs-rural-scan-tagline.png" alt="NBS Rural Scan — Scoping the potential of rural nature-based solutions in least developed countries" width="900">
 
 Evidence-based methods and reproducible tools for early investment scoping.
 
